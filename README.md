@@ -19,6 +19,7 @@ The repository follows a strictly chronological, lexicographically sortable dire
 
 - `Day_001`
 - `Day_002`
+- `...`
 - `Day_010`
 - `Day_100`
 
@@ -32,9 +33,7 @@ The repository follows a strictly chronological, lexicographically sortable dire
 
 | Day     | Problem Title                    | Difficulty | Data Structure/Topic   | Solution Link                         |
 |---------|----------------------------------|------------|------------------------|----------------------------------------|
-| Day_001 | Reverse an Array                 | Easy       | Arrays                 | `./Day_001/reverse-an-array.*`         |
-| Day_002 | Find Second Largest Element      | Easy       | Arrays                 | `./Day_002/second-largest-element.*`   |
-| Day_010 | Detect Cycle in Undirected Graph | Medium     | Graphs, DFS/BFS        | `./Day_010/detect-cycle-graph.*`       |
+| Day_001 | Reverse an Array                 | Easy       | Arrays                 | `./Day_001/reverse-an-array.py`, `./Day_001/reverse-an-array.java` |
 
 ## Technologies & Languages
 
@@ -48,5 +47,5 @@ Language selection may vary by problem based on clarity, efficiency, and impleme
 
 ## Author
 
-**Dinesh Moorthy**  
+**Dinesh Moorthy S R**  
 GitHub: [DineshMoorthy007](https://github.com/DineshMoorthy007)
