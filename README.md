@@ -23,23 +23,33 @@ The repository follows a strictly chronological, lexicographically sortable dire
 - `Day_010`
 - `Day_100`
 
-### Naming Convention Rationale
+## Documentation Standard
 
-- Zero-padded numbering preserves correct order in file explorers and version control views.
-- Lexicographical sorting aligns with chronological progression.
-- The structure improves traceability, consistency, and long-term maintainability.
+Each day folder is intended to be educational and easy to review later. The related README should explain:
+
+- the problem in simple terms,
+- the core algorithm or technique used,
+- why the method works,
+- the time and space complexity,
+- the language or languages used,
+- and the file mapping for the solution.
+
+## Algorithms and Methods Used So Far
+
+- `Day_001` uses an in-place two-pointer swap to reverse an array.
+- `Day_002` uses a write-pointer compaction method in Python and a swap-based in-place method in Java to move all zeros to the end.
 
 ## Progress Index
 
 | Day     | Problem Title                    | Difficulty | Data Structure/Topic   | Solution Link                         |
 |---------|----------------------------------|------------|------------------------|----------------------------------------|
 | Day_001 | Reverse an Array                 | Easy       | Arrays                 | `./Day_001/reverse-an-array.py`, `./Day_001/reverse-an-array.java` |
+| Day_002 | Move All Zeros to End            | Easy       | Arrays                 | `./Day_002/moving-all-zeros-to-end.py`, `./Day_002/moving-all-zeros-to-end.java` |
 
 ## Technologies & Languages
 
 The repository primarily uses the following languages for problem-solving and solution documentation:
 
-- C++
 - Java
 - Python
 
