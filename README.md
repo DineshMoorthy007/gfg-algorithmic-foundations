@@ -44,9 +44,9 @@ Each day folder is intended to be educational and easy to review later. The rela
 
 | Day     | Problem Title                    | Difficulty | Data Structure/Topic   | Solution Link                         |
 |---------|----------------------------------|------------|------------------------|----------------------------------------|
-| Day_001 | Reverse an Array                 | Easy       | Arrays                 | `./Day_001/reverse-an-array.py`, `./Day_001/reverse-an-array.java` |
-| Day_002 | Move All Zeros to End            | Easy       | Arrays                 | `./Day_002/moving-all-zeros-to-end.py`, `./Day_002/moving-all-zeros-to-end.java` |
-| Day_003 | Find Second Largest Element      | Easy       | Arrays                 | `./Day_003/second-largest-element.py`, `./Day_003/second-largest-element.java` |
+| Day_001 | Reverse an Array                 | Easy       | Arrays                 | [Python Solution](./Day_001/reverse-an-array.py), [Java Solution](./Day_001/reverse-an-array.java) |
+| Day_002 | Move All Zeros to End            | Easy       | Arrays                 | [Python Solution](./Day_002/moving-all-zeros-to-end.py), [Java Solution](./Day_002/moving-all-zeros-to-end.java) |
+| Day_003 | Find Second Largest Element      | Easy       | Arrays                 | [Python Solution](./Day_003/second-largest-element.py), [Java Solution](./Day_003/second-largest-element.java) |
 
 ## Technologies & Languages
 
