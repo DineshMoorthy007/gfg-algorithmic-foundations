@@ -38,6 +38,7 @@ Each day folder is intended to be educational and easy to review later. The rela
 
 - `Day_001` uses an in-place two-pointer swap to reverse an array.
 - `Day_002` uses a write-pointer compaction method in Python and a swap-based in-place method in Java to move all zeros to the end.
+- `Day_003` uses a single-pass two-variable scan to find the second largest distinct element in an array.
 
 ## Progress Index
 
@@ -45,6 +46,7 @@ Each day folder is intended to be educational and easy to review later. The rela
 |---------|----------------------------------|------------|------------------------|----------------------------------------|
 | Day_001 | Reverse an Array                 | Easy       | Arrays                 | `./Day_001/reverse-an-array.py`, `./Day_001/reverse-an-array.java` |
 | Day_002 | Move All Zeros to End            | Easy       | Arrays                 | `./Day_002/moving-all-zeros-to-end.py`, `./Day_002/moving-all-zeros-to-end.java` |
+| Day_003 | Find Second Largest Element      | Easy       | Arrays                 | `./Day_003/second-largest-element.py`, `./Day_003/second-largest-element.java` |
 
 ## Technologies & Languages
 
