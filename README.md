@@ -40,6 +40,7 @@ Each day folder is intended to be educational and easy to review later. The rela
 - `Day_002` uses a write-pointer compaction method in Python and a swap-based in-place method in Java to move all zeros to the end.
 - `Day_003` uses a single-pass two-variable scan to find the second largest distinct element in an array.
 - `Day_004` uses the reversal algorithm (three-step array reversal) for efficient in-place array rotation.
+- `Day_005` uses a single-pass algorithm with pivot-finding, successor-finding, and suffix-reversal to efficiently compute the next lexicographical permutation in-place.
 
 ## Progress Index
 
@@ -49,6 +50,7 @@ Each day folder is intended to be educational and easy to review later. The rela
 | Day_002 | Move All Zeros to End            | Easy       | Arrays                 | [Python Solution](./Day_002/moving-all-zeros-to-end.py), [Java Solution](./Day_002/moving-all-zeros-to-end.java) |
 | Day_003 | Find Second Largest Element      | Easy       | Arrays                 | [Python Solution](./Day_003/second-largest-element.py), [Java Solution](./Day_003/second-largest-element.java) |
 | Day_004 | Rotate Array                     | Easy       | Arrays                 | [Python Solution](./Day_004/rotate-array.py), [Java Solution](./Day_004/rotate-array.java) |
+| Day_005 | Next Permutation                 | Easy       | Arrays                 | [Python Solution](./Day_005/next-permutation.py), [Java Solution](./Day_005/next-permutation.java) |
 
 ## Technologies & Languages
 
