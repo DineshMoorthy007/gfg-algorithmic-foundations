@@ -41,6 +41,7 @@ Each day folder is intended to be educational and easy to review later. The rela
 - `Day_003` uses a single-pass two-variable scan to find the second largest distinct element in an array.
 - `Day_004` uses the reversal algorithm (three-step array reversal) for efficient in-place array rotation.
 - `Day_005` uses a single-pass algorithm with pivot-finding, successor-finding, and suffix-reversal to efficiently compute the next lexicographical permutation in-place.
+- `Day_006` uses the extended Boyer-Moore Voting Algorithm to efficiently find all elements that appear more than n/3 times in a single pass.
 
 ## Progress Index
 
@@ -51,6 +52,7 @@ Each day folder is intended to be educational and easy to review later. The rela
 | Day_003 | Find Second Largest Element      | Easy       | Arrays                 | [Python Solution](./Day_003/second-largest-element.py), [Java Solution](./Day_003/second-largest-element.java) |
 | Day_004 | Rotate Array                     | Easy       | Arrays                 | [Python Solution](./Day_004/rotate-array.py), [Java Solution](./Day_004/rotate-array.java) |
 | Day_005 | Next Permutation                 | Easy       | Arrays                 | [Python Solution](./Day_005/next-permutation.py), [Java Solution](./Day_005/next-permutation.java) |
+| Day_006 | Majority Element (> n/3)         | Easy       | Arrays                 | [Python Solution](./Day_006/majority-element.py), [Java Solution](./Day_006/majority-element.java) |
 
 ## Technologies & Languages
 
