@@ -42,6 +42,8 @@ Each day folder is intended to be educational and easy to review later. The rela
 - `Day_004` uses the reversal algorithm (three-step array reversal) for efficient in-place array rotation.
 - `Day_005` uses a single-pass algorithm with pivot-finding, successor-finding, and suffix-reversal to efficiently compute the next lexicographical permutation in-place.
 - `Day_006` uses the extended Boyer-Moore Voting Algorithm to efficiently find all elements that appear more than n/3 times in a single pass.
+- `Day_007` uses a greedy peak-valley approach to maximize profit by accumulating gains from all consecutive upward price movements for multiple stock transactions.
+- `Day_008` uses a single-pass greedy algorithm with minimum tracking to find the maximum profit from a single stock transaction.
 
 ## Progress Index
 
@@ -53,6 +55,8 @@ Each day folder is intended to be educational and easy to review later. The rela
 | Day_004 | Rotate Array                     | Easy       | Arrays                 | [Python Solution](./Day_004/rotate-array.py), [Java Solution](./Day_004/rotate-array.java) |
 | Day_005 | Next Permutation                 | Easy       | Arrays                 | [Python Solution](./Day_005/next-permutation.py), [Java Solution](./Day_005/next-permutation.java) |
 | Day_006 | Majority Element (> n/3)         | Easy       | Arrays                 | [Python Solution](./Day_006/majority-element.py), [Java Solution](./Day_006/majority-element.java) |
+| Day_007 | Stock Buy and Sell               | Easy       | Arrays, Greedy         | [Python Solution](./Day_007/stock-buy-and-sell.py), [Java Solution](./Day_007/stock-buy-and-sell.java) |
+| Day_008 | Stock Buy and Sell II            | Easy       | Arrays, Greedy         | [Python Solution](./Day_008/stock-buy-and-sell-2.py), [Java Solution](./Day_008/stock-buy-and-sell-2.java) |
 
 ## Technologies & Languages
 
