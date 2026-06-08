@@ -44,6 +44,7 @@ Each day folder is intended to be educational and easy to review later. The rela
 - `Day_006` uses the extended Boyer-Moore Voting Algorithm to efficiently find all elements that appear more than n/3 times in a single pass.
 - `Day_007` uses a greedy peak-valley approach to maximize profit by accumulating gains from all consecutive upward price movements for multiple stock transactions.
 - `Day_008` uses a single-pass greedy algorithm with minimum tracking to find the maximum profit from a single stock transaction.
+- `Day_009` uses a sorting and partitioning approach to find the minimum difference between the shortest and tallest tower heights after modifying each tower's height by adding or subtracting k.
 
 ## Progress Index
 
@@ -57,6 +58,7 @@ Each day folder is intended to be educational and easy to review later. The rela
 | Day_006 | Majority Element (> n/3)         | Easy       | Arrays                 | [Python Solution](./Day_006/majority-element.py), [Java Solution](./Day_006/majority-element.java) |
 | Day_007 | Stock Buy and Sell               | Easy       | Arrays, Greedy         | [Python Solution](./Day_007/stock-buy-and-sell.py), [Java Solution](./Day_007/stock-buy-and-sell.java) |
 | Day_008 | Stock Buy and Sell II            | Easy       | Arrays, Greedy         | [Python Solution](./Day_008/stock-buy-and-sell-2.py), [Java Solution](./Day_008/stock-buy-and-sell-2.java) |
+| Day_009 | Minimize the Heights II          | Easy       | Arrays, Greedy, Sorting| [Python Solution](./Day_009/minimize-the-heights-II.py), [Java Solution](./Day_009/minimize-the-heights-II.java) |
 
 ## Technologies & Languages
 
