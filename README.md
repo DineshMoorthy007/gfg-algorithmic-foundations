@@ -45,6 +45,7 @@ Each day folder is intended to be educational and easy to review later. The rela
 - `Day_007` uses a greedy peak-valley approach to maximize profit by accumulating gains from all consecutive upward price movements for multiple stock transactions.
 - `Day_008` uses a single-pass greedy algorithm with minimum tracking to find the maximum profit from a single stock transaction.
 - `Day_009` uses a sorting and partitioning approach to find the minimum difference between the shortest and tallest tower heights after modifying each tower's height by adding or subtracting k.
+- `Day_010` uses Kadane's Algorithm, a dynamic programming approach that efficiently finds the maximum sum of any contiguous sub-array in a single pass with O(n) time complexity.
 
 ## Progress Index
 
@@ -59,6 +60,7 @@ Each day folder is intended to be educational and easy to review later. The rela
 | Day_007 | Stock Buy and Sell               | Easy       | Arrays, Greedy         | [Python Solution](./Day_007/stock-buy-and-sell.py), [Java Solution](./Day_007/stock-buy-and-sell.java) |
 | Day_008 | Stock Buy and Sell II            | Easy       | Arrays, Greedy         | [Python Solution](./Day_008/stock-buy-and-sell-2.py), [Java Solution](./Day_008/stock-buy-and-sell-2.java) |
 | Day_009 | Minimize the Heights II          | Easy       | Arrays, Greedy, Sorting| [Python Solution](./Day_009/minimize-the-heights-II.py), [Java Solution](./Day_009/minimize-the-heights-II.java) |
+| Day_010 | Maximum Subarray Sum (Kadane)    | Easy       | Arrays, Dynamic Programming | [Python Solution](./Day_010/kadane-algorithm.py), [Java Solution](./Day_010/kadane-algorithm.java) |
 
 ## Technologies & Languages
 
